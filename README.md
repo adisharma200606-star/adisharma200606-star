@@ -1,4 +1,4 @@
-## Hi, I'm Adi 👋
+## Hi, I'm Adi 
 
 I'm a **BBA (Decision Science)** student at CHRIST University, Bengaluru, and I like building tools for workflows that are broken. I work across **growth, content operations, product and data**, and I build things when a spreadsheet stops being enough.
 
@@ -6,7 +6,7 @@ Right now I'm a **Decision Sciences Apprentice at Mu Sigma**.
 
 ---
 
-### 🛠 Projects
+### Projects
 
 | Project | What it is | Built with |
 |---|---|---|
@@ -27,7 +27,6 @@ Right now I'm a **Decision Sciences Apprentice at Mu Sigma**.
 **Product and growth:** Figma · Growth marketing · Prompt engineering · SCQA
 
 ---
-
-📫 [LinkedIn](https://linkedin.com/in/adi-sharma-6a492b272) · adisharma200606@gmail.com
+ [LinkedIn](https://linkedin.com/in/adi-sharma-6a492b272) · adisharma200606@gmail.com
 
 <sub>Off the clock: cinema, history, true crime, manga, guitar, and naming all 1,028 Pokémon.</sub>
