@@ -12,7 +12,6 @@ Right now I'm a **Decision Sciences Apprentice at Mu Sigma**.
 |---|---|---|
 | **[Synapse OS](https://github.com/adisharma200606-star/synapse-os)** | A content deployment engine for UGC teams. Interns write from a format library, the Team Lead reviews in one queue, and scripts go out to creators' Google Docs in one click. I built it at Airlearn, pitched it to the CGO, and it was approved for deployment. | Python · Streamlit · Google Docs & Sheets APIs |
 | **[BitByBit](https://www.bitbybit.living)** | A knight-themed habit and addiction-breaking app. Claude turns your goal into a personal plan grounded in the Fogg Behavior Model and *Atomic Habits*. Live now, with an official launch planned for late 2026. | React · Firebase · Claude API · Vercel |
-| **Reddit scraper and content engine** | Scraped and analyzed 2,500+ posts across 10 subreddits, then used Claude to write into Google Sheets. Drove 50,000+ views promoting HeyBuffy.com. Built with my manager at Flash.co. | Python · Streamlit · SQLite · Claude API |
 
 ### 📊 Research
 
