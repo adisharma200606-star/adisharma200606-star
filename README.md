@@ -24,7 +24,7 @@ Right now I'm a **Decision Sciences Apprentice at Mu Sigma**.
 
 **Code:** Python · React · Firebase · Streamlit · Claude API · Google APIs
 **Data:** Time series forecasting · Machine learning · Statistical analysis
-**Product and growth:** Figma · Growth marketing · Prompt engineering · SCQA
+**Product and growth:** Figma · Growth marketing 
 
 ---
  [LinkedIn](https://linkedin.com/in/adi-sharma-6a492b272) · adisharma200606@gmail.com
