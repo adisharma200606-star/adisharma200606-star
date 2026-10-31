@@ -2,8 +2,6 @@
 
 I'm a **BBA (Decision Science)** student at CHRIST University, Bengaluru, and I like building tools for workflows that are broken. I work across **growth, content operations, product and data**, and I build things when a spreadsheet stops being enough.
 
-Right now I'm a **Decision Sciences Apprentice at Mu Sigma**.
-
 ---
 
 ### Projects
